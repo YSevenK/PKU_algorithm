@@ -4,6 +4,8 @@
 两个词之间的字母相同，只是排列不同，称为变位词。
 """
 
+# 方法1：逐字检查
+
 
 def anagramSoluation1(s1, s2):
     alist = list(s2)
