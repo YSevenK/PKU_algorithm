@@ -13,8 +13,13 @@
 ### 第三章 基础数据结构
 
 栈的介绍以及应用
-栈：LIFO Last In First Out 原则：后进先出
+栈：LIFO Last In First Out 性质：后进先出
 
 应用：
 * 进制转换
 * 表达式转换
+
+### 第四章 基础数据结构Ⅱ
+
+队列的介绍以及应用
+队列：FIFO First In First Out 性质：先进先出
